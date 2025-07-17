@@ -2,12 +2,9 @@
 Steal My Code Save Your Time
 
 add this to the bottom of any script and call recoil to start a recoil animation with tweens. 
-
+I was gonna steal someone elses code but no one else had good recoil code for some reason. I guess i will be the sacrifice.
 
 ```gdscript
-
-
-@export var recoilSnappiness:float
 
 # Member variable for the Tween instance
 var _recoil_tween: Tween = null
